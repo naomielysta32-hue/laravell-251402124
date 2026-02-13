@@ -52,8 +52,8 @@
         <div class="flex items-center justify-center w-full transition-opacity opacity-100 duration-750 lg:grow starting:opacity-0">
             <main class="flex max-w-[335px] w-full flex-col-reverse lg:max-w-4xl lg:flex-row">
                 <div class="text-[13px] leading-[20px] flex-1 p-6 pb-12 lg:p-20 bg-white dark:bg-[#161615] dark:text-[#EDEDEC] shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d] rounded-bl-lg rounded-br-lg lg:rounded-tl-lg lg:rounded-br-none">
-                    <h1 class="mb-1 font-medium"> Welcome! <br> Elysta Naomi Nadapdap <br> </h1>
-                    <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]">Mahasiswa Teknologi Informasi. <br> NIM : 251402124.</p>
+                    <h1 class="mb-1 font-medium"> Welcome! <br> Mahasiswa Teknologi Informasi <br> </h1>
+                    <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]"> Nama : Elysta Naomi Nadapdap <br> NIM : 251402124.</p>
                     <ul class="flex flex-col mb-4 lg:mb-6">
                     </ul>
                 </div>
